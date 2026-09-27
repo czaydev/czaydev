@@ -10,9 +10,9 @@ Full Stack Developer · Istanbul
 
 [![Website](https://img.shields.io/badge/czay.dev-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://czay.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkanczay)
-[![X](https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white)](https://twitter.com/furkanczay)
-[![YouTube](https://img.shields.io/badge/YouTube-18181B?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@furkanczay)
-[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/furkanczay)
+[![X](https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white)](https://twitter.com/czaydev)
+[![YouTube](https://img.shields.io/badge/YouTube-18181B?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@czaydev)
+[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/czaydev)
 [![Email](https://img.shields.io/badge/contact@czay.dev-18181B?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@czay.dev)
 
 </div>
