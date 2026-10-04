@@ -145,19 +145,19 @@ Full Stack Developer · Istanbul
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=furkanczay&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&ring_color=e6edf3&custom_title=Overview" />
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=furkanczay&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=18181b&text_color=71717a&icon_color=18181b&ring_color=18181b&custom_title=Overview" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=czaydev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&ring_color=e6edf3&custom_title=Overview" />
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=czaydev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=18181b&text_color=71717a&icon_color=18181b&ring_color=18181b&custom_title=Overview" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=furkanczay&hide_border=true&background=00000000&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" />
-  <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=furkanczay&hide_border=true&background=00000000&stroke=e4e4e7&ring=18181b&fire=18181b&currStreakNum=18181b&sideNums=18181b&currStreakLabel=18181b&sideLabels=71717a&dates=a1a1aa" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=czaydev&hide_border=true&background=00000000&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" />
+  <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=czaydev&hide_border=true&background=00000000&stroke=e4e4e7&ring=18181b&fire=18181b&currStreakNum=18181b&sideNums=18181b&currStreakLabel=18181b&sideLabels=71717a&dates=a1a1aa" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkanczay/furkanczay/output/contrib-dark.svg" />
-  <img width="100%" alt="Contribution graph" src="https://raw.githubusercontent.com/furkanczay/furkanczay/output/contrib-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/czaydev/czaydev/output/contrib-dark.svg" />
+  <img width="100%" alt="Contribution graph" src="https://raw.githubusercontent.com/czaydev/czaydev/output/contrib-light.svg" />
 </picture>
 
 </div>
